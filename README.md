@@ -6,7 +6,7 @@
 - [ThreadJob](#ThreadJob)
 - [RSJobc](#RSJobc)
 
-## Console test
+## Console
 
 **[Ping-Jobs-Test.ps1](https://github.com/Lifailon/MTPing/blob/rsa/Scripts/Ping-Jobs-Test.ps1)**
 
