@@ -2,11 +2,11 @@
 
 **Идея реализации в сравнение разных методов мильтипотокового выполнения пинга подсети.**
 
-- [Консольное сравнение](#Консольное сравнение)
+- [Консольное сравнение](#Console test)
 - [ThreadJob](#ThreadJob)
 - [RSJobc](#RSJobc)
 
-## Консольное сравнение
+## Console test
 
 **[Ping-Jobs-Test.ps1](https://github.com/Lifailon/MTPing/blob/rsa/Scripts/Ping-Jobs-Test.ps1)**
 
