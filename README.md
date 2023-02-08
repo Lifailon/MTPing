@@ -26,7 +26,7 @@
 
 ## RSJob
 
-**В данном примере сравнивается время выполнения без и с преобразованием адреса в имя (nslookup).**
+**В данном примере (Release) сравнивается время выполнения с и без преобразованием адреса в имя (nslookup).**
 
 **[MTPing-1.2-RSJob.ps1](https://github.com/Lifailon/MTPing/blob/rsa/Scripts/MTPing-1.2-RSJob.ps1)**
 
