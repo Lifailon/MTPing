@@ -2,11 +2,15 @@
 
 **Идея реализации в сравнение разных методов мильтипотокового выполнения пинга подсети.**
 
+**[Скачать последнюю версию с GUI (MTPing.exe)](https://github.com/Lifailon/MTPing/releases)**
+
 - [Консольное сравнение](#Console)
 - [ThreadJob](#ThreadJob)
 - [RSJobc](#RSJobc)
 
 ## Console
+
+На ping 254 адресов в цикле ушло **2 минуты**, с использованием **[ThreadJob](https://www.powershellgallery.com/packages/ThreadJob/2.0.3)** было затрачено **26 секунд**. Используя **[PoshRSJob](https://github.com/proxb/PoshRSJob)** результат был в 2 раза быстрее: **13 секунд**.
 
 **[Ping-Jobs-Test.ps1](https://github.com/Lifailon/MTPing/blob/rsa/Scripts/Ping-Jobs-Test.ps1)**
 
