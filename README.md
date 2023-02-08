@@ -2,7 +2,7 @@
 
 **Идея реализации в сравнение разных методов мильтипотокового пинга хостов подсети.**
 
-**[Скачать последнюю версию с GUI (MTPing.exe)](https://github.com/Lifailon/MTPing/releases)**
+**[Скачать исполняему версию с GUI (MTPing.exe)](https://github.com/Lifailon/MTPing/releases)**
 
 - [Консольное сравнение](#Console)
 - [ThreadJob](#ThreadJob)
