@@ -26,7 +26,7 @@
 
 ## RSJob
 
-**В данном примере сравнивается время выполнения без и с использованием resolve (nslookup).**
+**В данном примере сравнивается время выполнения без и с использованием Resolve name (nslookup).**
 
 **[MTPing-1.2-RSJob.ps1](https://github.com/Lifailon/MTPing/blob/rsa/Scripts/MTPing-1.2-RSJob.ps1)**
 
